@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ishant_Developer_Cyber-Security</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/45a67d4d-563a-4b3d-8956-8537a9b9b19c)
+">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ikkdeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="ikkdeveloper" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ikkdeveloper" alt="ikkdeveloper" /></a> </p>
